@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdmachine&count_private=true&show_icons=true&bg_color=DEG,#00FFD1FF,#00FF7FFF,#44FF00FF,#FFFB00FF,#FF008BFF,#4C00FFFF,#1B00FFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdmachine&count_private=true&show_icons=true&bg_color=60,#00FFD1,#00FF7F,#44FF00,#FFFB00,#FF008B,#4C00FF,#1B00FF)](https://github.com/anuraghazra/github-readme-stats)
