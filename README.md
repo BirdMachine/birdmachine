@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/1etqTAkdpj0rkmknu5" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/halestorm-birds-flying-1etqTAkdpj0rkmknu5">via GIPHY</a></p>
+![](flock.gif)
 
 <!--
 **BirdMachine/birdmachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
